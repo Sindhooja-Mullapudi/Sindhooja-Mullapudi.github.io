@@ -1,4 +1,4 @@
-![alt text][Me]
+![][Me]
 
 # [SINDHOOJA MULLAPUDI]
 
