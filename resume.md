@@ -1,8 +1,8 @@
 # SINDHOOJA MULLAPUDI
 
-mullapudisindhooja@gmail.com
+[mullapudisindhooja@gmail.com]
 
-https://www.linkedin.com/in/sindhoojamullapudi/
+[https://www.linkedin.com/in/sindhoojamullapudi/]
 
 ## About Me
 
