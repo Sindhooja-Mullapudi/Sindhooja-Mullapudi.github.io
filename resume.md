@@ -1,8 +1,8 @@
 # SINDHOOJA MULLAPUDI
 
-[mullapudisindhooja@gmail.com]: mullapudisindhooja@gmail.com
+mullapudisindhooja@gmail.com
 
-[https://www.linkedin.com/in/sindhoojamullapudi/]: https://www.linkedin.com/in/sindhoojamullapudi/
+https://www.linkedin.com/in/sindhoojamullapudi/
 ## About Me
 
 Currently working towards a Bachelors in Geographical and Spacial Information Systems with a minor's degree in Informatics and Mechatronics at the University of Washington. Passionate about data-driven product development, analysis and management.
