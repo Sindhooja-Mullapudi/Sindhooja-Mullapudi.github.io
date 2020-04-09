@@ -1,65 +1,60 @@
-# SINDHOOJA MULLAPUDI
+# [Start Bootstrap - The Big Picture](https://startbootstrap.com/template-overviews/the-big-picture/)
 
-mullapudisindhooja@gmail.com
+[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
 
-https://www.linkedin.com/in/sindhoojamullapudi/
-## About Me
+## Preview
 
-Currently working towards a Bachelors in Geographical and Spacial Information Systems with a minor's degree in Informatics and Mechatronics at the University of Washington. Passionate about data-driven product development, analysis and management.
+[![The Big Picture Preview](https://startbootstrap.com/assets/img/templates/the-big-picture.jpg)](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)
 
-## Work Experience
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)**
 
-##### Intern -  Snapchat (via System1)
-###### Aug 2018 – Dec 2019
+## Status
 
-- Designed and developed numerous advertisements and in-app material for Snapchat.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-the-big-picture/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-the-big-picture.svg)](https://www.npmjs.com/package/startbootstrap-the-big-picture)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture?type=dev)
 
-- Analyzed user’s patterns through data and Developed various themes and templates for advertisements.
+## Download and Installation
 
-- Increased team productivity by more than 10% by automating the repeated tasks through advertisement templates and themes.
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/the-big-picture/)
+* Install via npm: `npm i startbootstrap-the-big-picture`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-the-big-picture)
 
-##### Intern - University of Washington Medical Center
-###### June 2017 – Aug 2018
+## Usage
 
-- Performed exploratory analysis on medical data to find patterns, co-relations, and co-variance between various variables using R.
+### Basic Usage
 
-- Iteratively developed numerous visualizations such as Box plots, Histograms, Bar charts, Scatter plots, Geo Maps, etc. using ggplot2 and leaflet libraries in R.
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-## Education
-##### University of Washington (Seattle, Washington)
-###### Sept 2016 - June 2020
+### Advanced Usage
 
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-- Bachelors in **Geographical Information Systems**, Minors in **Informatics** and **Mechatronics**
+You must have npm and Gulp installed globally on your machine in order to use these features.
 
-## Programming Skills
-- Python; SQL; R; Data Structures
+## Bugs and Issues
 
-- **Libraries & Tools:** Pandas; dplyr; ggplot2; OpenCV, leaflet; MySQL, Processing, Tableau; Power BI, GIS Tools
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
 
-## Certifications
+## About
 
-- Microsoft Technology Associate - Database Fundamentals
-- AIPMM: Product Management
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-## Technical Skills
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
 
-**Projects:**
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-- **Facial Recognition Mirror** – Developed a prototype for a smart mirror using Java and OpenCV library that responds by giving verbal feedback and changing color depending on the face the mirror sees.
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-- **GIS Research project** - The Keystone pipeline had a major oil spill in South Dakota destroying farmland.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-- **Created a map** showing what parts of the country the proposed pipeline would go through and what/where are the potential farmlands and water reservoirs/aquifers that are at risk if the Keystone XL pipeline is built.
+## Copyright and License
 
-- **Genealogical Application** - Developed a story map using GIS through a genealogical narrative. Tracked culture and history to understand migration and reasons.
-
-- **Product Designing and Management for Hot Damn**, a start-up that makes and sells hot sauce. Used Product Management framework to create over 100 bottles of four different flavors of hot sauce from scratch. Involved in creating Marketing Strategy, and designed company logo and packaging framework.
-
-## Additional Experience and Awards
-
-- **Dean’s List (2017 – 2019)**: Awarded to top 10 percentile in the class.
-
-- **The National Leadership Academies Alumni**: Conference attended by highly accomplished scholars in the fields of Science & Technology.
-
-- **Founder of Shikhara (2019 - Present)**: Shikhara was established to promote Visual Arts and Communication. Teaching Classical Dance to the kids and Freelance Graphic Designing.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
