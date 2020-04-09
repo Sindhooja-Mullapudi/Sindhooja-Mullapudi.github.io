@@ -1,17 +1,17 @@
 # SINDHOOJA MULLAPUDI
 
-[mullapudisindhooja@gmail.com]
+mullapudisindhooja@gmail.com
 
-[https://www.linkedin.com/in/sindhoojamullapudi/]
+https://www.linkedin.com/in/sindhoojamullapudi/
 
 ## About Me
 
-Currently working towards a Bachelors in Geographical and Spacial Information Systems with a minor's degree in Informatics and Mechatronics at the University of Washington. Passionate about data-driven product development, analysis and management.
+>Currently working towards a Bachelors in Geographical and Spacial Information Systems with a minor's degree in Informatics >and Mechatronics at the University of Washington. Passionate about data-driven product development, analysis and management.
 
 ## Work Experience
 
 ##### Intern -  Snapchat (via System1)
-###### Aug 2018 – Dec 2019
+###### _Aug 2018 – Dec 2019_
 
 - Designed and developed numerous advertisements and in-app material for Snapchat.
 
@@ -20,7 +20,7 @@ Currently working towards a Bachelors in Geographical and Spacial Information Sy
 - Increased team productivity by more than 10% by automating the repeated tasks through advertisement templates and themes.
 
 ##### Intern - University of Washington Medical Center
-###### June 2017 – Aug 2018
+###### _June 2017 – Aug 2018_
 
 - Performed exploratory analysis on medical data to find patterns, co-relations, and co-variance between various variables using R.
 
@@ -28,7 +28,7 @@ Currently working towards a Bachelors in Geographical and Spacial Information Sy
 
 ## Education
 ##### University of Washington (Seattle, Washington)
-###### Sept 2016 - June 2020
+###### _Sept 2016 - June 2020_
 
 
 - Bachelors in **Geographical Information Systems**, Minors in **Informatics** and **Mechatronics**
