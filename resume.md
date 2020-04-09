@@ -1,3 +1,5 @@
+[Me]
+
 # [SINDHOOJA MULLAPUDI]
 
 [gmail]
@@ -65,6 +67,7 @@
 
 - **Founder of Shikhara (2019 - Present)**: Shikhara was established to promote Visual Arts and Communication. Teaching Classical Dance to the kids and Freelance Graphic Designing.
 
+[Me]: https://github.com/Sindhooja-Mullapudi/Sindhooja-Mullapudi.github.io/blob/master/69886017_2979030018780770_1993798001478336512_o.jpg
 [Sindhooja Mullapudi]: https://sindhum7.myportfolio.com/
 [gmail]: mullapudisindhooja@gmail.com
 [linkedin]: https://www.linkedin.com/in/sindhoojamullapudi/
