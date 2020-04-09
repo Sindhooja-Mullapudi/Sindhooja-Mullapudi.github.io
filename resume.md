@@ -2,7 +2,7 @@
 
 mullapudisindhooja@gmail.com
 
-https://www.linkedin.com/in/sindhoojamullapudi/
+[linkedin]
 
 ## About Me
 
@@ -64,3 +64,5 @@ https://www.linkedin.com/in/sindhoojamullapudi/
 - **The National Leadership Academies Alumni**: Conference attended by highly accomplished scholars in the fields of Science & Technology.
 
 - **Founder of Shikhara (2019 - Present)**: Shikhara was established to promote Visual Arts and Communication. Teaching Classical Dance to the kids and Freelance Graphic Designing.
+
+[linkedin]: https://www.linkedin.com/in/sindhoojamullapudi/
